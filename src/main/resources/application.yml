@@ -13,3 +13,6 @@ spring:
 
 project:
   poster: posters/
+
+base:
+  url: "http://local:8080"
